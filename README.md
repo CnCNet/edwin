@@ -2,6 +2,11 @@ RA Scenario Editor
 ================================================================================
 Patches/bug fixes for RA Scenario Editor (EDWIN) (by Westwood Studios)
 
+Downloading the latest binaries.
+-----------------
+You can download the latest binaries here;<br>
+https://github.com/CnCNet/edwin-patches/releases
+
 Instructions
 --------------------------------------------------------------------------------
 
